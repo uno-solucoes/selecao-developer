@@ -1,10 +1,9 @@
-# Teste de seleção
+# UNO Challenge
 
-O objetivo desses desafios é conhece-lo melhor, como voce codifica.
+Está afim de participar da Seleção da UNO Soluções? Para isso é muito simples. Criamos alguns desafios com o objetivo de te conhecer melhor.
 
-Acesse o link que mais corresponda com suas habilidades, lá voce encontrará instruções para realizar um pequeno desafio de programação.
+Escolha a área que você mais domina, leia as instruções e realize nosso desafio de programação!
 
 * [Backend Developer](https://github.com/uno-solucoes/backend-developer)
 
 * Frontend Developer
-
